@@ -1,4 +1,4 @@
-# CellularAutomata-CA
+# Cellular Automata-CA
 This repo contains a java implementation of 1 Dimensional CA with 3 Colors (White, Black, Gray)
 
 <h1>License</h1>
