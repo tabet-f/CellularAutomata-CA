@@ -1,11 +1,8 @@
-package edu.neu.csye6200.ca;
-
-
 import java.awt.Color;
 import java.awt.Graphics;
 
 /********************************************************************************************* 
- * Created By:  FADI TABET 														 	         *
+ * Created By:  FADI TABET 						                     *								 	         *
  * CLASS PURPOSE: This class contains the graphics settings of Mouse Selection Grid          *
  *********************************************************************************************/
 
@@ -13,10 +10,10 @@ public class PaintMouseGrid extends UpdateCanvas {
 	
     private static final long serialVersionUID = 1;
     
-    private CAGeneration cag; //Instance of CAGeneration Class
+    private CAGeneration cag;     //Instance of CAGeneration Class
     private int cells;   	  //Number of Cells or Grid Size
     private int cellSize; 	  //Cell Size
-    private int boardBorderX; //Mouse Selection Grid Distance from JFrame Window Border
+    private int boardBorderX;     //Mouse Selection Grid Distance from JFrame Window Border
 
     //Constructor
     public PaintMouseGrid(CAGeneration newcageneration) {
