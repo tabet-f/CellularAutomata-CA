@@ -1,11 +1,9 @@
-package edu.neu.csye6200.ca;
-
 import java.awt.Color;
 import java.awt.Graphics;
 
 /*********************************************************************************************              													 * 
- * Created By:  FADI TABET 														 	         *
- * CLASS PURPOSE: This class contains the graphics settings of CA Canvas				     *
+ * Created By:  FADI TABET 								     *											 	         *
+ * CLASS PURPOSE: This class contains the graphics settings of CA Canvas		     *		     *
  *********************************************************************************************/
 
 public class PaintCanvas extends UpdateCanvas {
