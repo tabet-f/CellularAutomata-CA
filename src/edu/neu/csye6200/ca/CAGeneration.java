@@ -1,22 +1,20 @@
-package edu.neu.csye6200.ca;
-
 import java.util.ArrayList;
 import java.util.Random;
 
 /*********************************************************************************************                                       													 * 
- * Created By:  FADI TABET 														 	     *
+ * Created By:  FADI TABET 							             *													 	     *
  * CLASS PURPOSE: This class contains Cell, CACell and CAGenerationset & their Methods       *
  *********************************************************************************************/
 
 
 public class CAGeneration {
 	
-	private CARule cr;							//Instance of CARule Class
+    private CARule cr;					//Instance of CARule Class
     private Random rnd = new Random(); 			//Used to generate random numbers
-    private int cell; 				   		    //cells grid size
-    private int[] CACell; 			   			//Array of Cells
-    private ArrayList<int[]> CAGenerationSet;   //ArrayList of CACell's
-    private int time;   					    //Time 
+    private int cell; 				   	//cells grid size
+    private int[] CACell; 			   	//Array of Cells
+    private ArrayList<int[]> CAGenerationSet;           //ArrayList of CACell's
+    private int time;   				//Time 
    
 	
     //Constructor
