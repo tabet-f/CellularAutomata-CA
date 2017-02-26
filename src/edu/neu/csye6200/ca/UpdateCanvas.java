@@ -1,12 +1,10 @@
-package edu.neu.csye6200.ca;
-
 import java.awt.Canvas;
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Image;
 
 /*********************************************************************************************             													 * 
- * Created By:  FADI TABET 														 	         *
+ * Created By:  FADI TABET 							             *					 	         *
  * CLASS PURPOSE: This class contains the graphics settings to create & update the simulation*
  *********************************************************************************************/
 
