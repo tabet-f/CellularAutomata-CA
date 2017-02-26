@@ -1,8 +1,6 @@
-package edu.neu.csye6200.ca;
-
 /*********************************************************************************************              													 * 
- * Created By:  FADI TABET 														 	     *
- * CLASS PURPOSE: This class contains CARule which create the rules and related variables    *
+ * Created By:  FADI TABET 							             *									 	     *
+ * CLASS PURPOSE: This class contains CARule -> creates the rules and related variables      *
  *********************************************************************************************/
 
 public class CARule {
