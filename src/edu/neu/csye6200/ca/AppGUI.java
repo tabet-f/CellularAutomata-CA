@@ -1,4 +1,4 @@
-package edu.neu.csye6200.ca;
+//Your package name
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -29,8 +29,8 @@ import javax.swing.JTextField;
 import javax.swing.Timer;
 
 /*********************************************************************************************              													 * 
- * Created By: FADI TABET 														 	         *
- * CLASS PURPOSE: This class contains SWING settings and method calls other classes          *
+ * Created By: FADI TABET 								     *											 	         *
+ * CLASS PURPOSE: This class contains SWING settings and class method calls                  *
  *********************************************************************************************/
 
 public class AppGUI extends JFrame {
