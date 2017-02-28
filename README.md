@@ -4,7 +4,7 @@ Quick tutorial about Cellular Automata and how it works can be find <a target="_
 
 #Credit and License
 Fadi Tabet created this code so if you think this is neat and you need to reuse it you must credit the code author.
-This project is licensed under the MIT License - see the <a href="https://github.com/tabet-f/CellularAutomata-CA/blob/master/LICENSE.md">LICENSE.md</a> file for details. 
+This project is licensed under the MIT License - see the <a href="https://github.com/tabet-f/CellularAutomata-CA/blob/master/LICENSE.md">LICENSE.md</a> file more details. 
 
 #Usage
 Any enhancement for the project is welcome. 
