@@ -1,6 +1,6 @@
 # Cellular Automata-CA
 This repo contains a java implementation of 1 Dimensional CA with 3 Colors (White, Black, Gray).<br/>
-Quick tutorial about Cellular Automata and how it works can be find <a href="http://mathworld.wolfram.com/CellularAutomaton.html" target="_blank">Math Wolfram: Cellular Automata Theory</a>
+Quick tutorial about Cellular Automata and how it works can be find <a target="_blank" href="http://mathworld.wolfram.com/CellularAutomaton.html">Math Wolfram: Cellular Automata Theory</a>
 
 #Credit and License
 Fadi Tabet created this code so if you think this is neat and you need to reuse it you must credit the code author.
