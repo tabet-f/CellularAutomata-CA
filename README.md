@@ -1,5 +1,6 @@
 # Cellular Automata-CA
 This repo contains a java implementation of 1 Dimensional CA with 3 Colors (White, Black, Gray)
+Quick tutorial about Cellular Automata and how it works can be find <a href"http://mathworld.wolfram.com/CellularAutomaton.html">Math Wolfram: Cellular Automata Theory</a>
 
 #Credit and License
 Fadi Tabet created this code so if you think this is neat and you need to reuse it you must credit the code author.
@@ -14,6 +15,7 @@ This project is developed using Eclipse Mars. So for compatibility issues it's b
 #Contributing
 <li>Fork it!</li>
 <li>Create your feature branch: git checkout -b my-new-feature</li>
-<li>3.Commit your changes: git commit -am 'Add some feature'</li>
-<li>4.Push to the branch: git push origin my-new-feature</li>
-<li>5.Submit a pull request :D</li>
+<li>Commit your changes: git commit -am 'Add some feature'</li>
+<li>Push to the branch: git push origin my-new-feature</li>
+<li>Submit a pull request :D</li>
+
