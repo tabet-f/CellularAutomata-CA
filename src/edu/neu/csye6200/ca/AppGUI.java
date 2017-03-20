@@ -33,11 +33,11 @@ import javax.swing.Timer;
 
 public class AppGUI extends JFrame {
    
-	private static final long serialVersionUID = 1;
+    private static final long serialVersionUID = 1;
 	
-	private CAGeneration CAGeneration;
-	private PaintMouseGrid PaintMouseGrid;
-	private PaintCanvas PaintCanvas;
+    private CAGeneration CAGeneration;
+    private PaintMouseGrid PaintMouseGrid;
+    private PaintCanvas PaintCanvas;
 	
     private JPanel caPanel;
     private JPanel mainbarPanel;
