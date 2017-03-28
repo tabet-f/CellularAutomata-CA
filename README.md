@@ -7,7 +7,6 @@ Quick tutorial about 1D Cellular Automaton can be found: <a href="http://mathwor
 You can download the <a href="https://raw.githubusercontent.com/tabet-f/CellularAutomaton-CA/master/CA-DEMO-BY-FADI-TABET.jar">DEMO JAR FILE</a> and run it.
 
 # Credit and License
-Fadi Tabet created this code so if you think this is neat and you need to reuse it you must credit the code author.
 This project is licensed under the MIT License - see the <a href="https://github.com/tabet-f/CellularAutomata-CA/blob/master/LICENSE.md">LICENSE.md</a> file more details. 
 
 # Usage
