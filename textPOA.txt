@@ -1,1 +1,0 @@
-demo.ini = "path.demo.ca"
